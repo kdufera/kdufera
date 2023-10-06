@@ -9,8 +9,8 @@ Passionate about **React**, **React Native** ,**Node.js**, **PostgreSQL/MongoDB*
 Currently working on a few AI startups.
 
 <p align="center">
- <img src="ai.png" width="1400" height="600" />
-  <img src="web.gif"/>
+<!--  <img src="ai.png" width="1400" height="600" />
+  <img src="web.gif"/> -->
 
 </p> 
 
