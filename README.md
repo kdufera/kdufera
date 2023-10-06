@@ -1,4 +1,6 @@
-
+<p align="center">
+ <img src="main_.svg"/>
+</p> 
 # About Me: 
 Hi, I'm Kaleb Dufera. **Founder**, **Full Stack Engineer**, and **Programmer**.
 Enjoy working on building prototype apps via JS and Java based Frameworks. 
