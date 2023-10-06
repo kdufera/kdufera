@@ -1,5 +1,5 @@
 <p align="center">
- <img src="ai.png" />
+  <img src="code.png" width="1300" height="300" />
 </p> 
 
 
@@ -10,7 +10,7 @@ Passionate about **React**, **React Native** ,**Node.js**, **PostgreSQL/MongoDB*
 Currently working on a few startups.
 
 <p align="center">
- <img src="code.png" width="1300" height="600" />
+ <img src="ai.png" />
 </p> 
 
 **Skills (+9 years) :** React, React Native, Redux, JavaScript, Java, Node.js, Spring Boot, AWS, OpenIA, PostgreSQL/MongoDB/S3, Apache kafka, Stripe, Firebase, Webhooks, Auth0.
