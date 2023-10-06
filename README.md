@@ -5,7 +5,7 @@
 # About Me: 
 Hi, I'm Kaleb Dufera. **Founder**, **Full Stack Engineer**, and **Indie Entrepreneur**.
 Enjoy working on building prototype apps via JS and Java based Frameworks. 
-Passionate about **React**, **React Native** ,**Node.js**, **PostgreSQL/MongoDB**, **H20.ai/OpenAI**, **SpringBoot**.
+Passionate about **React**, **React Native** ,**Node.js**, **PostgreSQL/MongoDB**, **H20.ai/OpenAI**, and **SpringBoot**.
 Currently working on a few AI startups.
 
 <p align="center">
