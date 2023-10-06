@@ -1,6 +1,6 @@
 <p align="center">
  <img src="ai.png" />
-</p> -->
+</p> 
 
 
 # About Me: 
