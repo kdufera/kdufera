@@ -3,7 +3,7 @@
 </p> 
 
 # About Me: 
-Hi, I'm Kaleb Dufera. **Founder**, **Full Stack Engineer**, and **Programmer**.
+Hi, I'm Kaleb Dufera. **Founder**, **Full Stack Engineer**, and **Indie Entrepreneur**.
 Enjoy working on building prototype apps via JS and Java based Frameworks. 
 Passionate about **React**, **React Native** ,**Node.js**, **PostgreSQL/MongoDB**, **H20.ai/OpenAI**, **SpringBoot** and **Algo Trading**.
 Currently working on a few AI startups.
