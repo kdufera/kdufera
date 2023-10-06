@@ -10,6 +10,8 @@ Currently working on a few AI startups.
 
 <p align="center">
  <img src="ai.png" width="1400" height="600" />
+  <img src="web.gif"/>
+
 </p> 
 
 **Skills (+9 years) :** React, React Native, Redux, JavaScript, Java, Node.js, Spring Boot, AWS, OpenAI/H20.ai, PostgreSQL/MongoDB/S3, Apache kafka, Stripe, Firebase, Webhooks, Auth0.
