@@ -6,7 +6,7 @@
 Hi, I'm Kaleb Dufera. **Founder**, **Full Stack Engineer**, and **Programmer**.
 Enjoy working on building prototype apps via JS and Java based Frameworks. 
 Passionate about **React**, **React Native** ,**Node.js**, **PostgreSQL/MongoDB**, **H20.ai/OpenAI**, **SpringBoot** and **Algo Trading**.
-Currently working on a few startups.
+Currently working on a few AI startups.
 
 <p align="center">
  <img src="ai.png" width="1400" height="600" />
