@@ -11,5 +11,5 @@ Currently working on a few AI startups.
   <img src="web.gif"/>
 </p>
 
-**Skills (+10 years) :** React, React Native, Redux, JavaScript, Python,Java, Node.js, Spring Boot, AWS, OpenAI/H20.ai, TensorFlow/pytorch, PostgreSQL/MongoDB/DynmoDB/S3, Apache kafka, Stripe, Firebase, Webhooks, Auth0.
+**Skills (+10 years) :** React, React Native, Redux, JavaScript, Python,Java, Node.js, Spring Boot, AWS, OpenAI/H20.ai, TensorFlow/pytorch, PostgreSQL/MongoDB/DynamoDB/S3, Apache kafka, Stripe, Firebase, Webhooks, Auth0.
 </br>
