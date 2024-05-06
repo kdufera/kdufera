@@ -3,7 +3,7 @@
 </p> 
 
 # About Me: 
-Hi, I'm Kaleb Dufera.**Full Stack Engineer**, **Founder**, and ** Entrepreneur**.
+Hi, I'm Kaleb Dufera.**Full Stack Engineer**, **Founder**, and **Entrepreneur**.
 Passionate about early stage startups, **React/Node.js**, **TensorFlow/pytorch** and **H20.ai/OpenAI**
 Currently working on a few AI startups.
 
